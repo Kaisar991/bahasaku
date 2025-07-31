@@ -1,0 +1,47 @@
+name: bahasaku
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  font_awesome_flutter: ^10.7.0
+
+  # Firebase
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.17.3
+  cloud_firestore: ^4.15.3
+
+  # UI & Animasi
+  lottie: ^3.1.0
+  google_fonts: ^6.2.1
+  image_picker: ^1.1.0
+  shared_preferences: ^2.2.2
+  path_provider: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/lottie/loading.json
+    - assets/lottie/success.json
+    - assets/lottie/wrong.json
+    - assets/lottie/login_ilus.json
+    - assets/lottie/home_ilus.json
+    - assets/images/default_avatar.png
+    - assets/lottie/level_up.json
+    - assets/lottie/badge_lessons_5.json
+    - assets/lottie/badge_level_5.json
+    - assets/lottie/badge_streak_3.json
