@@ -45,3 +45,6 @@ flutter:
     - assets/lottie/badge_lessons_5.json
     - assets/lottie/badge_level_5.json
     - assets/lottie/badge_streak_3.json
+    - assets/images/login_screens.png
+    - assets/images/profile_screen.png
+    - assets/images/home_screen.png
