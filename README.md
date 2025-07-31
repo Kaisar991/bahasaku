@@ -62,7 +62,7 @@ Berikut adalah beberapa tampilan dari aplikasi Bahasaku:
 
 ## Kontribusi
 
-Kontribusi sangat terbuka! Silakan buat pull request atau laporkan issue jika menemukan bug atau ingin menambahkan fitur baru.
+tentu saja saya dan AI
 
 ## Lisensi
 
