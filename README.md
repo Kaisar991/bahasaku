@@ -66,4 +66,4 @@ tentu saja saya dan AI
 
 ## Lisensi
 
-Proyek ini belum memiliki lisensi resmi. Jika ingin menggunakan kode ini, mohon hubungi pemilik proyek terlebih dahulu.
+Proyek ini belum memiliki lisensi resmi. Jika ingin menggunakan kode ini, mohon hubungi pemilik proyek terlebih dahulu. kecuali pak rintis
